@@ -6,8 +6,8 @@ This project performs a comprehensive analysis of layoff data from various compa
 
 The goal of this analysis is to understand the landscape of corporate layoffs, identifying which industries, countries, and companies were most affected, and tracking the trends over time.
 
-- Data Sourse: https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/tree/main
-- Tools Used: MySQL
+- **Data Sourse**: https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/tree/main
+- **Tools Used**: MySQL
 
 ## Data Cleaning
 
